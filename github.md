@@ -18,6 +18,8 @@ En toen kwam ik het tegen: Github pages. De thema's zijn gebasseerd op jekkyl en
 Maar al snel ondervond ik dat het niet zo makkelijk was als gedacht. Wanneer ik namelijk een nieuwe pagina probeerde toe te voegen werd mijn thema niet meegenomen en verdween dus alle css...
 Dat was dus het volgende probleem om op te lossen. Na wat zoeken en veel gepruts had ik dan toch een oplossing gevonden voor dit probleem.
 <br/>
+Maar hoe maak je nu een nieuwe pagina. Wanneer ik een nieuwe pagina wil aanmaken moet ik in mijn github repository een file toevoegen. Hier kan ik dan inzetten wat ik wil vertellen en nadien moet ik nog juist een link toevoegen aan mijn index pagina. Daarna even wachten en daar is dan de nieuwe pagina!
+<br/>
 Om een lang verhaal kort te maken. Na veel gepruts en gevloek heb ik dan toch alles op punt gekregen en klaar voor gebruik!
 <br/>
 <br/>
