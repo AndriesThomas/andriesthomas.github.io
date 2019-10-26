@@ -9,4 +9,3 @@ Veel leesplezier!
 ## Blogs
 
 - <a href="github.md">Waarom Github pages?</a>
-- <a href="student_ctf.html">student ctf</a>
