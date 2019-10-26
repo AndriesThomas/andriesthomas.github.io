@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # Waarom Github pages?
 
