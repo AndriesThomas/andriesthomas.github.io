@@ -8,5 +8,5 @@ Veel leesplezier!
 
 ## Blogs
 
-<a href="github.html">Waarom Github pages?</a>
-<a href="student_ctf.html">student ctf</a>
+- <a href="github.html">Waarom Github pages?</a>
+- <a href="student_ctf.html">student ctf</a>
