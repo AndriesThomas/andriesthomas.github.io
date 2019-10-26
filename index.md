@@ -9,4 +9,3 @@ Veel leesplezier!
 ## Blogs
 
 - <a href="/github.html">Waarom Github pages?</a>
-- <a href="/github.md">Waarom Github pages? 1.0</a>
