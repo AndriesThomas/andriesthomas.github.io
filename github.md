@@ -19,7 +19,8 @@ Dat was dus het volgende probleem om op te lossen. Na wat zoeken en veel gepruts
 <br/>
 Maar hoe maak je nu een nieuwe pagina. Wanneer ik een nieuwe pagina wil aanmaken moet ik in mijn github repository een file toevoegen. Hier kan ik dan inzetten wat ik wil vertellen en nadien moet ik nog juist een link toevoegen aan mijn index pagina. Daarna even wachten en daar is dan de nieuwe pagina!
 <br/>
-Om een lang verhaal kort te maken. Na veel gepruts en gevloek heb ik dan toch alles op punt gekregen en klaar voor gebruik!\
+Om een lang verhaal kort te maken. Na veel gepruts en gevloek heb ik dan toch alles op punt gekregen en klaar voor gebruik!
+<br/>
 En zo is het eerste avontuur een feit!
 <br/>
 
