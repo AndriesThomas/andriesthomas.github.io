@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Waarom Github pages?
-
+###### 26/10/2019
 Voor het in de intro vermelde vak was de eerste opdracht maak een site aan waar je uw blogs bijhoudt. De keuze van platform was volledig aan ons.
 <br/>
 
