@@ -9,3 +9,4 @@ Veel leesplezier!
 ## Blogs
 
 - <a href="/github.html">Waarom Github pages?</a>
+- <a href="/vacature.html">Ideale vacature semester 5</a>
