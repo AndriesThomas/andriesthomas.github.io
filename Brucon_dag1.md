@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# student ctf
+# Brucon dag 1
 ##### 10/10/2019
 
 De eerste dag van brucon has arrived. We waren optijd vertrokken maar 1iemand van de groep had de trein gemist waardoor we op hem moesten wachten. Hierdoor kwamen we de eerste dag al te laat voor de eerste lezing. Geen probleem want eigenlijk was het een lezing waar geen van ons naar toe wou gaan. Dus hebben we het eerste uur wat retro games gespeeld. 
