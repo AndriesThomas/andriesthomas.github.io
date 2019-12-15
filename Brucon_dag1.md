@@ -7,7 +7,7 @@ layout: default
 
 De eerste dag van brucon has arrived. We waren optijd vertrokken maar 1iemand van de groep had de trein gemist waardoor we op hem moesten wachten. Hierdoor kwamen we de eerste dag al te laat voor de eerste lezing. Geen probleem want eigenlijk was het een lezing waar geen van ons naar toe wou gaan. Dus hebben we het eerste uur wat retro games gespeeld. 
 
-![alt text](https://github.com/AndriesThomas/andriesthomas.github.io/blob/master/retro.jpg "1 van de spelletjes")
+![alt text](retro.jpg "1 van de spelletjes")
 
 Toen kwam de 2de lezing eraan en dachten we waarom gaan we daar is niet naartoe. Toen we er toekwamen bleek de zaal al zeer vol te zitten dus hadden we een plaatsje redelijk van voor geclaimd. Toen de 2mannen met hun uitleg begonnen leek het al snel een vergissing om er naartoe te gaan. Ze waren niet verstaanbaar en niet interessant.
 
