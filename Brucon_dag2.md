@@ -7,7 +7,7 @@ layout: default
 
 De tweede dag van brucon. Deze keer was iedereen optijd toegekomen waardoor we vroeger in brucon waren toegekomen. Maar omdat we niet direct een interessante talk zagen dachten we kom we gaan eens proberen aan de ctf meetedoen.
 
-![alt text](https://github.com/AndriesThomas/andriesthomas.github.io/blob/master/ctf.jpg "ctf Brucon")
+![alt text](ctf.jpg "ctf Brucon")
 
 Toen we eraan begonnen hadden we al snel door dat deze makkelijker was dan die van zondag. We vonden vlot een paar vlaggen en voor we het wisten stonden we in de top 10 en waren we paar uur verder. 
 
@@ -17,6 +17,6 @@ We hebben ons dan nog even neergezet op een gemakkelijk bankje tot de laatste ta
 
 Als prijs hebben we uiteindelijk een bakje pralines gekregen. Jammer want ik lust geen chocolade… Achja laten we maar vooral onthouden dat ik redelijk wat vlaggen had gevonden.
 
-![alt text](https://github.com/AndriesThomas/andriesthomas.github.io/blob/master/group.jpg "groepsfoto Brucon")
-![alt text](https://github.com/AndriesThomas/andriesthomas.github.io/blob/master/praline.jpg "Sten & Dries die proberen de pralines weer in te pakken")
+![alt text](group.jpg "groepsfoto Brucon")
+![alt text](praline.jpg "Sten & Dries die proberen de pralines weer in te pakken")
 
