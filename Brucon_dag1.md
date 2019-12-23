@@ -14,3 +14,6 @@ Toen kwam de 2de lezing eraan en dachten we waarom gaan we daar is niet naartoe.
 De lezing hierna was dan wel interessanter deze was genaamd “a hackers view to the upcoming ISO/SAE 21434”. De persoon die deze uitleg gaf was interessant gemotiveerd en gebeten door zijn onderwerp. Zijn presentatie zat ook goed in elkaar ondanks dat hij deze nog maar net gemaakt had. (tijdens de talk die voor hem kwam)
 
 Hierna zijn we naar een talk om 15u gegaan over human side channels and their implications for security and privacy. Deze talk was ook een interessante en ook de laatste talk die ik gevolgd heb. Ik moest namelijk in de avond naar de dokter waardoor ik de dag vroeger heb moeten afsluiten.
+
+
+<a href="/index.html">Homepage</a>
