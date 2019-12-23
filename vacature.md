@@ -30,3 +30,5 @@ Een grondige kennis van IT is verreist.
 Grondige kennis van de nederlandse en engelse taal is noodzakelijk. Kennis van de franse taal is een pluspunt. 
 
 Je moet vlot en goed kunnen communiceren met onze klanten.
+
+<a href="/index.html">Homepage</a>
