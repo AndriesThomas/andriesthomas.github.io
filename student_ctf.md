@@ -17,3 +17,5 @@ Het leukste voor mij was erin slagen om de handboeien los te krijgen van de radi
 Op het einde van de dag zijn we niet gewonnen maar hebben we ons wel geamuseerd. Het grootste nadeel was alleen dat ze te weinig broodjes hadden besteld/gekregen. Hierdoor moesten we zelf nog eten gaan halen. En verloren we tijd voor de CTF.
 
 ![alt text](studentctf.jpg "groepsfoto studentCTF")
+
+<a href="/index.html">Homepage</a>
