@@ -76,4 +76,4 @@ Wanneer je wilt aanpassen hoeveel tabbladen er staan en in welke volgorde deze s
 Indien u een nieuw tabblad wilt toevoegen duwt u op de knop “een tabblad toevoegen”. En kiest u het gewenste tabblad.
 U heeft nu de belangrijkste dingen ingesteld voor uw facebookpagina.
 
-
+<a href="/index.html">Homepage</a>
