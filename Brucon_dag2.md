@@ -20,3 +20,4 @@ Als prijs hebben we uiteindelijk een bakje pralines gekregen. Jammer want ik lus
 ![alt text](group.jpg "groepsfoto Brucon")
 ![alt text](praline.jpg "Sten & Dries die proberen de pralines weer in te pakken")
 
+<a href="/index.html">Homepage</a>
