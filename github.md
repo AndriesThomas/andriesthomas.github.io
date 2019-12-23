@@ -33,3 +33,4 @@ En zo is het eerste avontuur een feit!
 
 **Thomas**
 
+<a href="/index.html">Homepage</a>
