@@ -2,8 +2,10 @@
 layout: default
 ---
 
-# Ideale vacature semester 5!
-##### 15/12/2019
+# Ideale vacature semester 6!
+##### 14/05/2020
+
+Tijdens mijn stage is mijn ideale vacature niet aangepast. Ik heb nog altijd het gevoel dat ik het meest kan doen als link tussen IT & het bedrijf. Ookal heb ik een grotere interesse gekregen in security awareness en de gamification hiervan lijkt het mij toch beter om een carrière te starten als business analist.
 
 ## Business analist
 
